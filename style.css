@@ -7,8 +7,8 @@
     font-family: "Poppins", sans-serif;
     }
     header{
-    background-color: #798645;
-    color: #F2EED7;
+    background-color: #424e61;
+    color: white;
     width: 100%;
     padding: 20px;
     }
@@ -37,27 +37,27 @@
     width: 25%;
     padding-right: 30px;
     }
-    .logo_restaurante.png{
+    .banner1{
     display: flex;
     justify-content: center;
     }
-    .comida1.png{
+    .estudante_titulo{
     padding: 50px;
     text-align: center;
     
     }
-    .comida1.png{
+    .estudante-nome{
     text-align: center;
     }
-    .comida1.png{
+    .estudante-imagem{
     width: 120px;
     }
-    .comida1.png{
+    .estudante-icone{
     width: 38px;
     padding: 4px 8px;
     }
     .estudante{
-    background-image: background-color(#F2EED7);
+    background-image: background-color(#faae43);
     padding: 24px 0;
     }
     
@@ -70,7 +70,7 @@
     justify-content: space-around;
     }
     .escola{
-    background-image: linear-gradient(#F2EED7);
+    background-image: linear-gradient(#40A2E3,#7FC2EF);
     color: white;
     display: flex;
     justify-content:center;
@@ -83,7 +83,6 @@
     text-align: center;
     }
     .logo_rodape{
-     background-image:  #798645
     height: 80px;
     padding: 12px 0;
     
