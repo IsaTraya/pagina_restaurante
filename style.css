@@ -74,6 +74,10 @@
         flex-direction: row; 
         flex-wrap: nowrap; 
         align-content: stretch;
+        background-color: #F2EED7;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
     }
     .escola{
     background-image: linear-gradient(#F2EED7);
