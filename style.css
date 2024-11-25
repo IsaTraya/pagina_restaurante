@@ -69,16 +69,7 @@
         display: flex;
     
         justify-content: space-evenly; 
-        align-items: stretch; 
-        /* flex-flow: row nowrap; */ 
-        flex-direction: row; 
-        flex-wrap: nowrap; 
-        align-content: stretch;
-        background-color: #ffff;
-    height: 100%;
-    padding: 20px;
-    gap: 5px;
-    }
+       
     .escola{
     background-image: linear-gradient(#ffff);
     color: #ffff;
