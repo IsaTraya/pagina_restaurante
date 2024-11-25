@@ -67,9 +67,16 @@
     }
     .estudantes_todos{
         display: flex;
-        justify-content:  space-evenly;  
-        }
-       
+        justify-content:space-between;  
+        /* flex-flow: nowrap; */  
+        flex-wrap: nowrap; 
+        align-content: stretch;
+    
+        background-color: #ffff;
+        height: 100%;
+        padding: 15px;
+        gap: 5px;
+      }  
     .escola{
     background-image: linear-gradient(#ffff);
     color: #ffff;
