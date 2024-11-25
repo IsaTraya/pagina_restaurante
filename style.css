@@ -67,7 +67,7 @@
     }
     .estudantes_todos{
         display: flex;
-        justify-content: space-around;
+        justify-content:  space-evenly;  
         }
        
     .escola{
