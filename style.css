@@ -74,14 +74,14 @@
         flex-direction: row; 
         flex-wrap: nowrap; 
         align-content: stretch;
-        background-color: #F2EED7;
+        background-color: #ffff;
     height: 100%;
     padding: 20px;
     gap: 5px;
     }
     .escola{
     background-image: linear-gradient(#ffff);
-    color: #F2EED7;
+    color: #ffff;
     display: flex;
     justify-content:center;
     padding: 24px 0;
