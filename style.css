@@ -51,7 +51,17 @@
     }
     .estudante-imagem{
     width: 120px;
-    }
+    display: flex;
+    justify-content: space-evenly;  
+    /* flex-flow: nowrap; */  
+    flex-wrap: nowrap; 
+    align-content: stretch;
+
+    background-color: #ffff;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+  }
     .estudante-icone{
     width: 38px;
     padding: 4px 8px;
@@ -67,16 +77,9 @@
     }
     .estudantes_todos{
         display: flex;
-        justify-content:space-between;  
-        /* flex-flow: nowrap; */  
-        flex-wrap: nowrap; 
-        align-content: stretch;
-    
-        background-color: #ffff;
-        height: 100%;
-        padding: 15px;
-        gap: 5px;
-      }  
+        justify-content:  space-evenly; 
+        }
+       
     .escola{
     background-image: linear-gradient(#ffff);
     color: #ffff;
